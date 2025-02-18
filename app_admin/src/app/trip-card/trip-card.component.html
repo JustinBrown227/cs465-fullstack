@@ -1,4 +1,4 @@
-<div class="card ml-4">
+<div class="card ml-4" style="width: 16rem;">
     <div class="card-header">{{ trip.name }}</div>
     <img src="assets/images/{{ trip.image }}"
     alt="trip thumbnail" class="card-img-top">
@@ -13,6 +13,6 @@
         </p>
     </div>
     <div>
-        <button (click)="editTrip(trip)" class="btn btn-info">Edit Trip</button>
+        <button (click)="editTrip(trip)" *ngIf="isLoggedIn()" class="btn btn-info">Edit Trip</button>
     </div>
 </div>
