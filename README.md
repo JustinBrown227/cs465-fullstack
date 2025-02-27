@@ -27,4 +27,5 @@ In a full-stack application, API testing is crucial for ensuring proper request 
 Reflection
 
 • How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+
 This course has been incrfedibly insightful in helping me progress toward my professional goals as a software engineer. I have developed skills in full-stack development, including frontend frameworks, backend API design, and database management. Additionally, working with authentication and security has enhanced my understanding of best practices for securing applications. These experiences have strengthened my ability to build and deploy functional web applications, making me a more competitive candidate in the job market. With the completion of this course I am more aware of how websites and applications function and how they handle data/data storage.
